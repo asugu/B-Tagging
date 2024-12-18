@@ -13,7 +13,7 @@ Thumbs.db
 
 # Ignore Python cache and virtual environments
 
-*/__pycache__*
+__pycache__*
 *.pkl
 *npy
 *.log.tar.gz
