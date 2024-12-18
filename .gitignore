@@ -1,0 +1,31 @@
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+/data
+/benchmark
+/checkpoints
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore Python cache and virtual environments
+
+*/__pycache__*
+*.pkl
+*npy
+*.log.tar.gz
+
+.DS_Store
+*.yaml
+*.yml
+
+# Ignore compiled files
+*.o
+*.so
+*.out
+
+# Ignore node_modules for JavaScript/TypeScript projects
+node_modules/
